@@ -1,3 +1,6 @@
+# Homework problem from Adhoc
+A friend showed me this problem and I thought I would try it.
+
 # SLCSP
 
 ## Calculate the second lowest cost silver plan
